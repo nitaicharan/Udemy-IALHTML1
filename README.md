@@ -14,8 +14,8 @@ git push --delete origin gh-pages
 git subtree push --prefix dist/curso origin gh-pages
 ```
 ## Informações sobre o curso
-Introdução à linguagem CSS
-<br>Aprenda os conceitos básicos da linguagem CSS
+Introdução à Linguagem HTML
+<br>Como criar seu primeiro Website
 
 URL: https://www.udemy.com/course/introducao-a-linguagem-html/
 
